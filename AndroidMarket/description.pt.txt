@@ -1,0 +1,15 @@
+Este aplicativo só é útil se você joga Ingress.
+
+Um jeito simples de você chegar a portais:
+
+1) vá para http://www.ingress.com/intel/
+2) localize o portal no qual você pretende ir
+3) no topo direito da tela, clique no botão "link" para obter o endereço do portal
+4) mande este endereço para o seu Android ( por exemplo por email ) e clique
+5) este aplicativo irá redirecionar o link para o Google Maps ( ou qualquer outro app de GPS)
+6) dirija até o mesmo e crie um megafield
+
+
+Aviso: eu não sou afiliado com a Niantic e não me responsabilizo por pela opinão deles sobre o uso deste app.
+
+Este aplicativo é OpenSource: https://github.com/marcosdiez/IngressIntelToGps

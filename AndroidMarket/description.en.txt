@@ -1,0 +1,15 @@
+This App is only useful if you play Ingress.
+
+A simple way for you to find new portals:
+1) go to http://www.ingress.com/intel/
+2) locate a portal you want to go
+3) click on the link icon on the top right of the screen and get a link to the portal.
+the link will be similar to: http://www.ingress.com/intel?ll=-23.548943,-46.638818
+4) send this link to you android device (per email?) and click on it
+5) this app will redirect it to Google Maps ( or any other GPS app )
+6) drive to the portal and create a megafield
+
+Disclaimer: I am not affiliated with Niantic and I can only hope they have mercy for those who use this app.
+
+This app is OpenSource: https://github.com/marcosdiez/IngressIntelToGps
+
