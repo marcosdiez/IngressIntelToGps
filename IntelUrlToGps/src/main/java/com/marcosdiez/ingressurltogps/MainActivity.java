@@ -9,10 +9,12 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
     final static String TAG = "Intel2GPS";
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        // setContentView(R.layout.activity_main);
 
         // -23.548943,-46.638818
         // -23.545751,-46.66941

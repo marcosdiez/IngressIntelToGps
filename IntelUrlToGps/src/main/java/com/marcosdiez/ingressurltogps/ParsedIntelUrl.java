@@ -59,14 +59,20 @@ public class ParsedIntelUrl {
     }
 
     private int getUrlBegin(String intelUrl) {
-        int begin;
-        begin = intelUrl.indexOf("?ll=");
-        if(begin==-1){
-            begin = intelUrl.indexOf("&ll=");
+        int begin=-1;
+
+        String[] locationTokenArray = {"&pll=","?pll=","?ll=", "&ll="};
+        String theLocationToken=null;
+        for( String locationToken : locationTokenArray ){
+            begin = intelUrl.indexOf(locationToken);
+            if( begin != -1 ){
+                theLocationToken=locationToken;
+                break;
+            }
         }
         if(begin==-1){
-            throw new IllegalArgumentException("Intel URL must contain either [?ll=] or [&ll=]");
+            throw new IllegalArgumentException("Intel URL must contain either [?ll=] or [&ll=] or [?pll=] or [&pll=]");
         }
-        return begin + 4; // 4 is the size of "&ll=" or "?ll=";
+        return begin + theLocationToken.length();
     }
 }
