@@ -4,5 +4,8 @@
     <string name="app_name">Navigate with GPS app</string>
     <string name="intent_not_received">ERROR: Intent not received</string>
     <string name="intent_contains_not_data">ERROR: Intent contains no data</string>
+    <string name="choose_your_maps_app">Please choose which Maps app you want to use:</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="yandex_maps">Yandex Maps</string>
 
 </resources>
