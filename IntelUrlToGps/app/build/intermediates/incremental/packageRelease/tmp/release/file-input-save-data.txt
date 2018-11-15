@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Nov 15 10:53:32 BRST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1

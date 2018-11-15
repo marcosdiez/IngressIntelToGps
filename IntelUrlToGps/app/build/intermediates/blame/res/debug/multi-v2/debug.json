@@ -1,0 +1,87 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "291",
+                        "endColumns": "57",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,6,7,5,4,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "56,274,369,190,115,421",
+                        "endColumns": "58,94,51,83,74,51",
+                        "endOffsets": "110,364,416,269,185,468"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "169,228,323,375,459,534",
+                        "endColumns": "58,94,51,83,74,51",
+                        "endOffsets": "223,318,370,454,529,581"
+                    }
+                },
+                {
+                    "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,146",
+                        "endColumns": "57,55",
+                        "endOffsets": "141,197"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\debug\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,4,3,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,269,343,186,111,395",
+                        "endColumns": "55,73,51,82,74,51",
+                        "endOffsets": "106,338,390,264,181,442"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,111,185,237,320,395",
+                        "endColumns": "55,73,51,82,74,51",
+                        "endOffsets": "106,180,232,315,390,442"
+                    }
+                }
+            ]
+        }
+    ]
+}

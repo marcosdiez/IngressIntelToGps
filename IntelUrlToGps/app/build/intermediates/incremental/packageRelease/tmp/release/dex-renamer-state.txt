@@ -1,0 +1,4 @@
+#Thu Nov 15 10:53:32 BRST 2018
+base.0=C\:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

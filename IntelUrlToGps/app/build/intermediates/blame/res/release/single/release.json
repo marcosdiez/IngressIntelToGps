@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_avatar.png.flat",
+        "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\drawable-mdpi\\avatar.png"
+    },
+    {
+        "merged": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_avatar.png.flat",
+        "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\drawable-xxhdpi\\avatar.png"
+    },
+    {
+        "merged": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_avatar.png.flat",
+        "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\drawable-hdpi\\avatar.png"
+    },
+    {
+        "merged": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_avatar.png.flat",
+        "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\drawable-xhdpi\\avatar.png"
+    }
+]

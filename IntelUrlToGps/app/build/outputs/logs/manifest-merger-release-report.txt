@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:5:5-31
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:8:5-35:19
+	android:label
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:10:9-40
+	android:allowBackup
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:9:9-36
+activity#com.marcosdiez.ingressurltogps.MainActivity
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:14:9-34:20
+	android:label
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:ingress.com+data:host:ingress.com+data:host:intel.ingress.com+data:host:intel.ingress.com+data:host:www.ingress.com+data:host:www.ingress.com+data:pathPrefix:/intel+data:pathPrefix:/intel+data:pathPrefix:/intel+data:pathPrefix:/intel+data:pathPrefix:/intel+data:pathPrefix:/intel+data:scheme:http+data:scheme:http+data:scheme:http+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:23:13-33:29
+action#android.intent.action.VIEW
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:24:17-68
+	android:name
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:25:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:26:27-75
+data
+ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:27:17-101
+	android:host
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:27:45-71
+	android:scheme
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:27:23-44
+	android:pathPrefix
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml:27:72-99
+uses-sdk
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		ADDED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\marcos\linux\IngressIntelToGps\IntelUrlToGps\app\src\main\AndroidManifest.xml

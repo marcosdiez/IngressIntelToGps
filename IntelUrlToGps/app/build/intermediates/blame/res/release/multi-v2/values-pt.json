@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pt\\values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\marcos\\linux\\IngressIntelToGps\\IntelUrlToGps\\app\\src\\main\\res\\values-pt\\strings.xml",
+                    "from": {
+                        "startLines": "2,5,6,4,3,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,269,343,186,111,395",
+                        "endColumns": "55,73,51,82,74,51",
+                        "endOffsets": "106,338,390,264,181,442"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,111,185,237,320,395",
+                        "endColumns": "55,73,51,82,74,51",
+                        "endOffsets": "106,180,232,315,390,442"
+                    }
+                }
+            ]
+        }
+    ]
+}

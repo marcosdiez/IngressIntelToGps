@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigate com o GPS</string>
+    <string name="choose_your_maps_app">Escolha um app de mapas:</string>
+    <string name="google_maps">Google Maps</string>
+    <string name="intent_contains_not_data">ERRO: Intent não contem dados</string>
+    <string name="intent_not_received">ERRO: Intent não recebido </string>
+    <string name="yandex_maps">Yandex Maps</string>
+</resources>
